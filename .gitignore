@@ -1,0 +1,20 @@
+# Python sanal ortamı ve önbellekler
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Hassas veriler ve ortam değişkenleri
+.env
+
+# Ajanın üzerinde çalışacağı test projeleri (isteğe bağlı hariç tutma)
+workspace/*
+!workspace/.gitkeep
+
+# İşletim sistemi ve editör dosyaları
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini

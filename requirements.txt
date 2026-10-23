@@ -1,0 +1,15 @@
+# LLM ve Ajan Orkestrasyonu
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langgraph>=0.1.0
+pydantic>=2.0.0
+
+# Docker & Sistem Yönetimi
+docker>=7.0.0
+
+# Git Entegrasyonu
+GitPython>=3.1.40
+
+# Ortam Değişkenleri & Terminal Görselliği
+python-dotenv>=1.0.0
+rich>=13.7.0
