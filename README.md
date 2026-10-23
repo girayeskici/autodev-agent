@@ -52,7 +52,7 @@ graph TD
 
 ### 1. Depoyu Klonlayın ve Sanal Ortamı Kurun
 ```bash
-git clone [https://github.com/girayeskici/autodev-agent.git](https://github.com/girayeskici/autodev-agent.git)
+git clone https://github.com/girayeskici/autodev-agent.git
 cd autodev-agent
 python -m venv venv
 source venv/bin/activate  # Windows için: venv\Scripts\activate
